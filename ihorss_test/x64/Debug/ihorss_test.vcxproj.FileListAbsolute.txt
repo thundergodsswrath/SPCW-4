@@ -1,0 +1,3 @@
+D:\MyPc\3course\SPCW\task_4\ihorss_test\x64\Debug\gtest.pdb
+D:\MyPc\3course\SPCW\task_4\ihorss_test\x64\Debug\gtest_main.pdb
+D:\MyPc\3course\SPCW\task_4\ihorss_test\ihorss_test\x64\Debug\ihorss_t.75D94FF3.Up2Date
